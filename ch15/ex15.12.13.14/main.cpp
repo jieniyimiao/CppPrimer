@@ -76,11 +76,11 @@ int main()
     //dobj.print(std::cout);
 
     //! c.  function name is not virtual , so no dynamic
-    //!     binding happens.so conpile time
+    //!     binding happens.so compile time
     //std::cout << bp1->name();
 
     //! d.  function name is not virtual , so no dynamic
-    //!     binding happens.so conpile time
+    //!     binding happens.so compile time
     //std::cout << bp2->name();
 
     //! e.  run time
